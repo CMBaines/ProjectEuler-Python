@@ -1,0 +1,3 @@
+from Methods.Fibonacci.SumOfEvenFibonaccisUnderN import SumOfEvenFibonaccisUnderN
+
+print(SumOfEvenFibonaccisUnderN(4000000))
